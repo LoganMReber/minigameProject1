@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 1px red solid;
+}
+html {
+    font-size: 62.5%;
+}
+h1 {
+    font-size: 3.2rem;
+}
